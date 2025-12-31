@@ -6,4 +6,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 github_username: "annisvvv"jekyll-seo-tag
- 
+baseurl: "/NasriAnis.Blog.github.io" 
+url: "https://annisvvv.github.io"

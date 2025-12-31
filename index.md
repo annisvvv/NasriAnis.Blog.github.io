@@ -16,4 +16,4 @@ This is my personal blog i wish i could help someone of you get inspired, wish y
       - <span>{{ post.date | date: "%Y-%m-%d" }}</span>
     </li>
   {% endfor %}
-</ul>sudo apt install ruby-full build-essential zlib1g-dev
+</ul>

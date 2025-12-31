@@ -2,10 +2,10 @@ theme: minima
 title: Nasri Anis Blog
 description: "Email: nasrianis213@gmail.com"
 future: true
-baseurl: "/NasriAnis.Blog.github.io" 
+baseurl: "/NasriAnis.Blog.github.io"
 url: "https://annisvvv.github.io"
 
-github_username: "annisvvv"jekyll-seo-tag
+github_username: "annisvvv"
 
 plugins:
   - jekyll-remote-theme

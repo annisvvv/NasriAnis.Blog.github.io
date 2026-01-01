@@ -5,7 +5,7 @@ title: "My Blog"
 
 This is my personal blog. You can find more information about me in the [About](/about/) section.
 
-I wish you  good lecture.
+I wish to you a good lecture.
  
 #### Posts:
 
